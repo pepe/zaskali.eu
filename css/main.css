@@ -21,6 +21,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    background-color: #eee;
 }
 
 /*
@@ -92,6 +93,24 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+body {
+  margin: 2em auto 2em auto;
+  width: 495px;
+}
+
+footer {
+  margin-top: 3em;
+  font-size: 9px;
+  text-align: right;
+  color: #666;
+}
+
+footer a {
+  color: #333;
+  text-decoration: none;
+}
+
 
 
 
@@ -296,3 +315,5 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
